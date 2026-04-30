@@ -121,7 +121,7 @@ If you use this code, please cite the manuscript:
 
 ## Corresponding author
 
-Audêncio Victor — University of São Paulo, Brazil.
+Audêncio Victor — London School of Hygiene & Tropical Medicine (LSHTM), UK.
 
 ## License
 
